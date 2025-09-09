@@ -1,7 +1,7 @@
 # 3D N-Periodic SSFP Analysis
 
 This repository contains code for **3D reconstruction and analysis of N-periodic Steady-State Free Precession (SSFP) MRI data**, developed as part of my MSc project at Imperial College London.  
-It is adapted and extended from [Pete Lally’s `nperiodic_analysis`](https://github.com/petelally/nperiodic_analysis.git).
+It is adapted and extended from my academic supervisor [Pete Lally’s `nperiodic_analysis`](https://github.com/petelally/nperiodic_analysis.git).
 
 ---
 
