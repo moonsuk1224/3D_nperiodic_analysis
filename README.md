@@ -17,7 +17,7 @@ The project aims to:
 - **Raw Siemens `.dat` file support** (via [`mapVBVD`](https://github.com/MarkusDietrich/mapVBVD)).
 - **3D POCS partial Fourier reconstruction** for N-periodic SSFP.
 - **F-state demodulation** and separation from phase-cycled data.
-- **Coil combination** via SOS, ESPIRiT, and SENSE.
+- **Coil combination** via SOS, ESPIRiT, SENSE, and coil-by-coil (no coil combination).
 - Export to **DICOM/NIfTI** for downstream QSM analysis (e.g., [SEPIA toolbox](https://github.com/kschan0214/sepia)).
 
 ---
